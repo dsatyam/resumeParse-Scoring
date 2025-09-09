@@ -1,0 +1,3 @@
+docling==2.48.0  # or latest stable
+pytest==8.4.1
+python-dotenv==1.1.1
